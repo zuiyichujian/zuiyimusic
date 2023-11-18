@@ -4,4 +4,4 @@
 
 软件描述：一款音乐播放软件<br>
 开发语言：C#<br>
-更新内容请移步：[更新日志]()<br>
+更新内容请移步：[更新日志](https://github.com/zuiyichujian/zuiyimusic/blob/main/CHANGELOG.md)<br>
