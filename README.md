@@ -1,4 +1,4 @@
-<h2 align="center">洛雪音乐助手桌面版</h2>
+<h2 align="center">醉忆音乐 桌面版</h2>
 
 ### 说明
 
